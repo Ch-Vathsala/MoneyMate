@@ -7,7 +7,7 @@
    ========================================================================== */
 
 :root[data-theme="dark"] {
-  --bg: #141b17; --surface: #1c2420; --surface-alt: #212a25;
+  --bg: #151b17; --surface: #1c2420; --surface-alt: #212a25;
   --border: rgba(232,222,196,0.12); --border-hi: rgba(232,222,196,0.24);
   --text: #eee6d3; --sub: #a79f8a; --faint: #6d6656;
   --input-bg: rgba(232,222,196,0.06); --rule-rgb: 232,222,196; --rule-alpha: 0.05;
